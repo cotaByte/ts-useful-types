@@ -1,6 +1,6 @@
 {
   "name": "ts-useful-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small collection of reusable and practical TypeScript types designed to simplify and streamline development across multiple projects.",
   "types": "dist/index.d.ts",
   "scripts": {
